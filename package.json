@@ -1,0 +1,11 @@
+{
+  "name": "@ingrun/cache",
+  "version": "1.0.0",
+  "description": "vue2-cache-util",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no test specified\""
+  },
+  "author": "ingrun",
+  "license": "MIT"
+}
