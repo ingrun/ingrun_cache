@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"no test specified\""
   },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
   "author": "ingrun",
   "license": "MIT"
 }
